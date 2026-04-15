@@ -3,11 +3,11 @@
 ## Overview
 
 
-##Infer
+## Infer
 The inference code is provided in Infer.py. 
 Under the current ATT&CK-Dataset directory, the inference results are saved as TTP-Tagger.json.
 
-##Evaluation
+## Evaluation
 The evaluation code is provided in Evaluate.py
 pip install -r requirements.txt
 python Evaluate.py
