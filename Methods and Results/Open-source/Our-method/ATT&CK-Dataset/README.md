@@ -13,11 +13,7 @@ The hyperparameters used were as follows:
  number of training epochs = 3, learning rate = 1e-5, per-device batch size = 1,
 and gradient accumulation steps = 2.
 
-## Experiment Framework
-Our method is re-implemented and adapted based on LLaMA-Factory
-Url:https://github.com/hiyouga/LLaMAFactory
-
-##Infer
+## Infer
 The inference code is shown in Infer.py
 
 
